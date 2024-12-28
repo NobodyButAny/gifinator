@@ -1,0 +1,1 @@
+drawtext=textfile=text.txt:fontfile=Roboto/Roboto-Regular.ttf:fontcolor=white:bordercolor=black:borderw=2:fontsize=32:x=(w-text_w)/2:y=h-3*text_h/2 - 10
